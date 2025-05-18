@@ -45,3 +45,7 @@
 3. **Lane Detection:** Uses Canny edge + Hough transform for lanes
 4. **Bounding Boxes:** Draws labels and confidence scores
 5. **Path Logic:** Simulates next move based on obstacle and lane layout
+
+## 🧾 License
+
+This project is licensed under the [MIT License](LICENSE).
