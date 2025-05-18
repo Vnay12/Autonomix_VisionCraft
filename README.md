@@ -1,6 +1,6 @@
 # 🚘 Autonomix VisionCraft – AI-Powered Object Detection & Navigation
 
-**Autonomix VisionCraft** is an AI-powered vision system designed to detect and interpret real-world road elements such as vehicles, pedestrians, lanes, and traffic signs. It simulates foundational aspects of autonomous navigation using computer vision and deep learning — aimed at building the core of an intelligent driving assistant (not quite Tesla-level... yet 😉).
+**Autonomix VisionCraft** is an AI-powered vision system that detects and interprets real-world road elements such as vehicles, pedestrians, lanes, and traffic signs. It simulates foundational aspects of autonomous navigation using computer vision and deep learning aimed at building the core of an intelligent driving assistant (not quite Tesla-level... yet 😉).
 
 ---
 
